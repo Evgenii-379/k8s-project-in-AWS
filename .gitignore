@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# AWS CLI
+awscliv2.zip
+aws/
+
+# Другие бинарные файлы
+*.zip
+*.tar.gz
